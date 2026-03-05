@@ -1,0 +1,29 @@
+{
+  "SquadName": "NetherRealm",
+  "Mods": [
+    {
+      "ModName": "TFP_Harmony",
+      "Version": "1.1.0.4",
+      "DownloadUrl": "",
+      "FileName": "010_0_TFP_Harmony.zip"
+    },
+    {
+      "ModName": "KeyMapEvents",
+      "Version": "1.0",
+      "DownloadUrl": "",
+      "FileName": "100_XpEvents-9742-1-0-1772127082.zip"
+    },
+    {
+      "ModName": "TMO_MEGA_CITIES_RWG",
+      "Version": "1.0",
+      "DownloadUrl": "",
+      "FileName": "102_(TMO) MegaCitiesRWG v1_v2.5ST-9668-1-0-1771480917.zip"
+    },
+    {
+      "ModName": "SortingChest",
+      "Version": "2.5.0.6",
+      "DownloadUrl": "",
+      "FileName": "500_SortingChest.zip"
+    }
+  ]
+}
