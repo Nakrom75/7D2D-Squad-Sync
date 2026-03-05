@@ -2,9 +2,9 @@
   "PlayerName": "MARKUS-CI-TECH",
   "AppVersion": "2.1.0",
   "PackVersion": "1.0.1",
-  "SyncStatus": "Downloading",
-  "CurrentAction": "500_SortingChest.zip",
-  "Progress": 100,
+  "SyncStatus": "Ready",
+  "CurrentAction": "",
+  "Progress": 0,
   "LastError": "",
-  "LastUpdate": "2026-03-05T21:02:03.7565802+02:00"
+  "LastUpdate": "2026-03-05T22:31:36.5173188+02:00"
 }
