@@ -2,9 +2,9 @@
   "PlayerName": "MARKUS-CI-TECH",
   "AppVersion": "2.1.0",
   "PackVersion": "1.0.1",
-  "SyncStatus": "Downloading",
-  "CurrentAction": "500_SortingChest.zip",
+  "SyncStatus": "Error",
+  "CurrentAction": "010_0_TFP_Harmony.zip",
   "Progress": 0,
-  "LastError": "",
-  "LastUpdate": "2026-03-05T22:33:20.5566778+02:00"
+  "LastError": "Response status code does not indicate success: 416 (Range Not Satisfiable).",
+  "LastUpdate": "2026-03-05T22:33:21.3759583+02:00"
 }
