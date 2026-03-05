@@ -2,9 +2,9 @@
   "PlayerName": "MARKUS-CI-TECH",
   "AppVersion": "2.1.0",
   "PackVersion": "1.0.1",
-  "SyncStatus": "Ready",
-  "CurrentAction": "",
+  "SyncStatus": "Downloading",
+  "CurrentAction": "Starting Sync Sequence",
   "Progress": 0,
   "LastError": "",
-  "LastUpdate": "2026-03-05T22:56:22.2402429+02:00"
+  "LastUpdate": "2026-03-05T22:56:32.2541613+02:00"
 }
