@@ -1,0 +1,140 @@
+{
+  "SquadName": "NetherRealm",
+  "LastUpdated": "2026-03-06 17:52:05",
+  "IsReady": false,
+  "Mods": [
+    {
+      "ModName": "[Safety Lock] Singularity",
+      "Version": "1.5.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/010_Singularity-8361-1-5-0-1771823421.zip",
+      "FileName": "010_Singularity-8361-1-5-0-1771823421.zip",
+      "FileHash": "99ea16aa8244e6d7a4420f68fe5d3b144766ad526006717e583825e9c0b6dc46"
+    },
+    {
+      "ModName": "[Safety Lock] TFP_Harmony",
+      "Version": "1.1.0.4",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/012_0_TFP_Harmony.zip",
+      "FileName": "012_0_TFP_Harmony.zip",
+      "FileHash": "40e8be213e511f5ea3a2afd38ade444bba2a12da38c6c90123becab10e2e364d"
+    },
+    {
+      "ModName": "[Safety Lock] Byteblazars_Natural_Selection",
+      "Version": "1.1.2.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/1001_Natural Selection-8528-1-1-2-0-1768858337.zip",
+      "FileName": "1001_Natural Selection-8528-1-1-2-0-1768858337.zip",
+      "FileHash": "d12f45ed46e92b0aa4a1a64357f7f1153ca10dcd5588153f7eca5b6f9eec6497"
+    },
+    {
+      "ModName": "[Safety Lock] HaveYouReadThis",
+      "Version": "3.0.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/1003_HaveYouReadThis-9696-3-0-4-1771876247.zip",
+      "FileName": "1003_HaveYouReadThis-9696-3-0-4-1771876247.zip",
+      "FileHash": "cf75026aef8d9e429630d4d2705e3d711a7e3a52de5b5bf3fead976b3f3421f0"
+    },
+    {
+      "ModName": "[Safety Lock] IndustrailGenerator",
+      "Version": "1.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/1005_Industrial Generator-9669-v1-0-1771501394.zip",
+      "FileName": "1005_Industrial Generator-9669-v1-0-1771501394.zip",
+      "FileHash": "783b725232fcbd103195d5f049a7e5b5a7ffbe70538d5d8c00bb04a3a350d511"
+    },
+    {
+      "ModName": "[Safety Lock] JenModelRevival",
+      "Version": "1.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/1007_Jen Model Revival-9391-1-0-1768153647.zip",
+      "FileName": "1007_Jen Model Revival-9391-1-0-1768153647.zip",
+      "FileHash": "c9cc7e715a2a1a2f26b4c723b7bc33822d7ed43a89db6866973b1fe0aa25501b"
+    },
+    {
+      "ModName": "[Safety Lock] 1009_military turrets-9605-v2-5-1770764110",
+      "Version": "1.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/1009_military turrets-9605-v2-5-1770764110.zip",
+      "FileName": "1009_military turrets-9605-v2-5-1770764110.zip",
+      "FileHash": "ac56813bbf2dd5241de256271a94d9cb842cc14bbae8c139b18bde97a5f22e30"
+    },
+    {
+      "ModName": "[Safety Lock] KeyMapEvents",
+      "Version": "1.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/100_XpEvents-9742-1-0-1772127082.zip",
+      "FileName": "100_XpEvents-9742-1-0-1772127082.zip",
+      "FileHash": "e181673f4e1fdd4859fab94806d0caf5f99b1bf11aefd0b52529a3bb7477e96e"
+    },
+    {
+      "ModName": "[Safety Lock] SolarFacilty",
+      "Version": "2.5",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/1011_Solar Facility-9726-2-5-1771943227.zip",
+      "FileName": "1011_Solar Facility-9726-2-5-1771943227.zip",
+      "FileHash": "2708f2a72df9192e1e39681473cc6f908400c57fdb548fa3810f56556924e86a"
+    },
+    {
+      "ModName": "[Safety Lock] TMO_MEGA_CITIES_RWG",
+      "Version": "1.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/102_(TMO) MegaCitiesRWG v1_v2.5ST-9668-1-0-1771480917.zip",
+      "FileName": "102_(TMO) MegaCitiesRWG v1_v2.5ST-9668-1-0-1771480917.zip",
+      "FileHash": "7052fdd5ad7fb1c251e7779a8e5ceda42479d3355f6161ede24bdb2905bf469e"
+    },
+    {
+      "ModName": "[Safety Lock] Alter_DroneWeaponsMod",
+      "Version": "1.3.3",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/500_Drone Weapons-4360-1-3-3-1757457489 (1).zip",
+      "FileName": "500_Drone Weapons-4360-1-3-3-1757457489 (1).zip",
+      "FileHash": "9d672ab529fe14ba503cf9377a712a6b4228817eafbcda122395c20cffdd757a"
+    },
+    {
+      "ModName": "[Safety Lock] Bdubs_Vehicles",
+      "Version": "2.5.1.2",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/502_BdubsVehicles-342-2-5-1-2-1769104333.zip",
+      "FileName": "502_BdubsVehicles-342-2-5-1-2-1769104333.zip",
+      "FileHash": "05abfd6882cc26705f25c7a6a32a34c6161b55b0edbbad0fe3115a094101802c"
+    },
+    {
+      "ModName": "[Safety Lock] ClaimRepairLCB",
+      "Version": "1.3.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/504_ClaimRepair LCB-9536-1-3-0-1770390023.zip",
+      "FileName": "504_ClaimRepair LCB-9536-1-3-0-1770390023.zip",
+      "FileHash": "8e044b6fec38f44b54fcda4a689e7015d7b3deb9c9cf0ab48fe7b61e7f8de0e9"
+    },
+    {
+      "ModName": "[Safety Lock] RAM",
+      "Version": "0.4.2",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/506_RAM - Random Affixes Mod-9567-0-4-2-1772392813.zip",
+      "FileName": "506_RAM - Random Affixes Mod-9567-0-4-2-1772392813.zip",
+      "FileHash": "494fbde9439629c186b52dbc9e143bfee4ec5be8fc99678ec23f292ac0579452"
+    },
+    {
+      "ModName": "[Safety Lock] SortingChest",
+      "Version": "2.5.0.6",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/508_SortingChest 2.5.0.6-9635-2-5-0-6-1771168178.zip",
+      "FileName": "508_SortingChest 2.5.0.6-9635-2-5-0-6-1771168178.zip",
+      "FileHash": "7d6f4445d1c5d0a0fb712d46a745b3c2b42e582d719b8b0c3f75d0d56ea5d41e"
+    },
+    {
+      "ModName": "[Safety Lock] Z_Undead_Farmgirl_MenuReplacerV2",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/510_Undead_Farmgirl_MenuReplacerV2-9345-1-0-0-1767701526.zip",
+      "FileName": "510_Undead_Farmgirl_MenuReplacerV2-9345-1-0-0-1767701526.zip",
+      "FileHash": "04ecac438f945fe8ee11e1d9e98973648a8b6ed63a3098a3f202496c7f5d8d4c"
+    },
+    {
+      "ModName": "[Safety Lock] zItC-Bdubs2VM",
+      "Version": "1.0.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/512_ItC Bdubs to VM-8164-1-0-1-1753609723.zip",
+      "FileName": "512_ItC Bdubs to VM-8164-1-0-1-1753609723.zip",
+      "FileHash": "98e13735ac91c72cc3c2b418ce5b1eb08cdde36dc1578298c184266c0773b1f0"
+    },
+    {
+      "ModName": "[Safety Lock] AMG5TAG-LongerLootBags",
+      "Version": "2.0",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/999_AMG5TAG-LongerLootBags-9525-2-0-1769733502.zip",
+      "FileName": "999_AMG5TAG-LongerLootBags-9525-2-0-1769733502.zip",
+      "FileHash": "4ae379888b4add07b1f3b7dff7794f23b0c98fcdb6a8146ca7a707bce0af9574"
+    },
+    {
+      "ModName": "[Safety Lock] VehicleMadnessModlet_v5_Beta_4",
+      "Version": "2.0.5.41",
+      "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/VehicleMadness_Beta4_v5_V2.0.zip",
+      "FileName": "VehicleMadness_Beta4_v5_V2.0.zip",
+      "FileHash": "b07b804f2150a2cdc2453e37e1bd5afa8b52558b5ca05e9c25597d831ca6fb89"
+    }
+  ]
+}
