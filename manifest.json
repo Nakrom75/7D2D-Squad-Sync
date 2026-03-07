@@ -1,6 +1,6 @@
 {
   "SquadName": "NetherRealm",
-  "LastUpdated": "2026-03-07 13:02:34",
+  "LastUpdated": "2026-03-07 13:14:03",
   "GameVersion": "v2022.3.62f2 (7670c08855a9)",
   "IsReady": false,
   "Mods": [
@@ -51,91 +51,91 @@
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_Visible_Mods_mod.zip",
       "FileName": "7D1.0_Izayo_Visible_Mods_mod.zip",
-      "FileHash": "10a22e1a5bb2a5f5de2fedc533a997f06767445967e7f38a8dd617f1f5451d35"
+      "FileHash": "129e21180fb3475f67565f65ce7f11d44d1217d55487cde21bc5cbef47da5fd9"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_Miscpack",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackMisc_pack.zip",
       "FileName": "7D1.0_Izayo_WeaponpackMisc_pack.zip",
-      "FileHash": "fd8cd8c97b8cf811941fc48c30d8c774052c9ef285efb4fbf0eace5cc59539ba"
+      "FileHash": "d3ae790b04798a264747dbd87d4741f9513c41ff4427df2d15ad68293229f72b"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_44magnum",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_44mag.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_44mag.zip",
-      "FileHash": "c6a094c6f1652ade80a42d1bb94011211d0fde7ed43ab4dc43decec4257ea036"
+      "FileHash": "2412670f80ec7e1c6ff9e7f9b8ee751763ea5461024901576cbb39144f730fc1"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_45ACP",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_45ACP.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_45ACP.zip",
-      "FileHash": "cd39c3d7d2d61231959b27af3e9bc55a2400a874675c586f21c917b2d139c7b1"
+      "FileHash": "e6ecaec980c7242f288d763f7107592f9274a08386195fa9bb6993d0b7dd8e31"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_556pack",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_556pack.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_556pack.zip",
-      "FileHash": "06df0f66b298925d43bd7d757b071b1ee27d811e2ebf6e808379c208220a9133"
+      "FileHash": "4bb69d46fb17b38ace4b98f2a72c83b7acc095d5e336780ce816ed71dbefff02"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_762pack",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_762pack.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_762pack.zip",
-      "FileHash": "ea80a8876f6c870bf9c288170a7112defff4418292ccaa53992b2e4f5a43fbbf"
+      "FileHash": "165af05d6738935cb516b4326e64f7921203ba751c27b6c3ad93418e892700a4"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_9mmVAL",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_9mmVAL.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_9mmVAL.zip",
-      "FileHash": "45e5e757a6c7f142be54210040859081395109599b427e46f3aa6863a90e1ad6"
+      "FileHash": "9f7baee27e1bec905000ce5dcf89274663404260767836d4861b335b0b4d8414"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_Demopack",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_DemolitionPack.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_DemolitionPack.zip",
-      "FileHash": "eeeb32890eb293d0c0dc8e46fdbcfa94379c3b7a0941359464e90b8ede78c964"
+      "FileHash": "5d9cd1df2d32b3fbb3c7e5143b1fbc9a44fce59b0fef045df45fcd28c6f8ba0b"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_HVW",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_Heavy_WeaponPack.zip",
-      "FileHash": "391bfeead71bc93b59b7c2eaf80552c3832858e8c8570466b89c374f77a97101"
+      "FileHash": "dda2b019bd051bf7414cb1a3123ca637f20387a0c3b607521a06d5fba8ec50d8"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_SG",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_SHOTGUNpackVAL.zip",
-      "FileHash": "46deb8ca75734cfa47c1597b8d0813b765d9e71ebc680a558915fd5d95033f73"
+      "FileHash": "deafa8f6f0066d693ccaa5f3e072a557cf7c8dd19e960e580a13da00192e401d"
     },
     {
       "ModName": "[Safety Lock] IZY_RMP_Tech",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackRemastered_Technicalpack.zip",
       "FileName": "7D1.0_Izayo_WeaponpackRemastered_Technicalpack.zip",
-      "FileHash": "1910431afacea83515a06eb822bc0dbf3c552e68fbc37c48d39e7f282ba88693"
+      "FileHash": "cd85688e095ca70f7994bda15dfa3a400fd6ae5cff45481ee234fc363ab3fffd"
     },
     {
       "ModName": "[Safety Lock] IZY_melee",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackSpecial_Melee.zip",
       "FileName": "7D1.0_Izayo_WeaponpackSpecial_Melee.zip",
-      "FileHash": "1af0045089f9576c6cc1913a8a3a60e0be82e8d76731e99be5810be8f24fd881"
+      "FileHash": "763e8626235a2053a78baea084445557318192875397949dc92c4aec1cb3eaa0"
     },
     {
       "ModName": "[Safety Lock] IZY_VRP",
       "Version": "1.1.0.4",
       "DownloadUrl": "https://github.com/Nakrom75/7D2D-Squad-Sync/raw/main/Mods/7D1.0_Izayo_WeaponpackVanillaReplacer.zip",
       "FileName": "7D1.0_Izayo_WeaponpackVanillaReplacer.zip",
-      "FileHash": "c77add19f87449b5bd8dec0aee2bc7888fe5b54052282430dd0f3429f42e2602"
+      "FileHash": "61f09cc32d78ff5965b4bd17d878daca69a22779b58ea4ebdb3f5275a1821b6d"
     },
     {
       "ModName": "[Safety Lock] Alter_DroneWeaponsMod",
